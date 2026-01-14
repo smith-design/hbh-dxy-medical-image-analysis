@@ -1,9 +1,9 @@
 # Models
-*.pth
-*.pt
-*.bin
-*.ckpt
-models/
+# *.pth  <-- Commented out to allow LFS tracking
+# *.pt
+# *.bin
+# *.ckpt
+# models/ <-- Commented out to allow LFS tracking
 !models/.gitkeep
 
 # Datasets

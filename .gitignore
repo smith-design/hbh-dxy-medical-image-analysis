@@ -1,0 +1,23 @@
+# Models
+*.pth
+*.pt
+*.bin
+*.ckpt
+models/
+!models/.gitkeep
+
+# Datasets
+data/
+datasets/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Frontend
+node_modules/
+dist/
+.DS_Store
